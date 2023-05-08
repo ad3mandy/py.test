@@ -2,10 +2,10 @@
 print()
 
 # This sections accept name and ID
-first_name, last_name, student_id = input("Please enter your first name, last name and user ID: ").split()
+first_name, last_name, user_id = input("Please enter your first name, last name and user ID: ").split()
 print()
 print(first_name, last_name)
-print(student_id)
+print(user_id)
 print()
 
 # This section is useful for writing signature words for cmd tools
